@@ -1,1 +1,1 @@
-const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&r ";
+const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqbnpCNE9sZHRPaVpuWm1qRWRzcWJJZ203YjBSZ3xBQ3Jtc0tudDNMUUNXUnB1REtVT0tnR0toa3oxRUo2TE1PUEg5SDZpUElwczlyREtuN1FBSWh3YzAybXlkdzF0RkFZRkVIVUxJS0E3Ui1EZGJXRFFOd2VKOHN0ZXFzck9aRU1BdlAwc1VJVGJQYy00NUF6NXdONA&q=https%3A%2F%2Frgordg.datlngllfe.net%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D147255%26s2%3D1589906%26j1%3D1&html_redirect=1";
